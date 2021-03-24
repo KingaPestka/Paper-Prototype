@@ -1,0 +1,139 @@
+.canvas-container{
+    position: relative;
+    width: 1900px;
+    height: 800px;
+  }
+  #canvas {
+    position: absolute;
+    background-color:lightgrey
+  }
+  #button1 {
+    position:absolute;
+    left:500px;
+    top:490px;
+    background-color: #4c5baf; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 39px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin:3px 3px;
+    cursor: pointer;
+    font-size: 220px;
+  }
+  #button1:hover{
+    background-color:blueviolet;
+    color:purple;
+  }
+  #button2:hover{
+    background-color:blueviolet;
+    color:purple;
+  }
+  #button3:hover{
+    background-color:blueviolet;
+    color:purple;
+  }
+  #button4:hover{
+    background-color:blueviolet;
+    color:purple;
+  }
+  #button2 {
+    position:absolute;
+        left:710px;
+        top:490px;
+        background-color: #4c5baf; 
+        border: none;
+        color: white;
+        padding: 15px 39px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        margin:3px 3px;
+        cursor: pointer;
+        font-size: 220px;
+    
+  }
+  #button3 {
+    position:absolute;
+        left:920px;
+        top:490px;
+        background-color: #4c5baf; 
+        border: none;
+        color: white;
+        padding: 15px 39px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        margin:3px 3px;
+        cursor: pointer;
+        font-size: 220px;
+    
+  }
+  #button4 {
+    position:absolute;
+        left:1130px;
+        top:490px;
+        background-color: #4c5baf; 
+        border: none;
+        color: white;
+        padding: 15px 39px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        margin:3px 3px;
+        cursor: pointer;
+        font-size: 220px;
+    
+  }
+
+  
+ 
+ 
+.button {
+    background-color: #4c5baf; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 8px 6px;
+    cursor: pointer;
+  }
+  .button:hover{
+      background-color:blueviolet;
+      color:purple;
+  }
+.button1 { 
+    background-color: blue;
+    border: none;
+    color:white;
+    padding: 15px 32px;
+   
+    font-size: 20px;
+}
+.button2 {
+    background-color: blue;
+    border: none;
+    color:white;
+    padding: 15px 32px;
+    
+    font-size: 20px;
+}
+.button3 {
+    background-color: blue;
+    border: none;
+    color:white;
+    padding: 15px 32px;
+   
+    font-size: 20px;
+}
+.button4 {
+    background-color: blue;
+    border: none;
+    color:white;
+    padding: 15px 32px;
+    
+    font-size: 20px;
+}
